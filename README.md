@@ -1,6 +1,8 @@
 # FoodQuick
 This a Java program that has a functionality sort of like Uber Eats and sorts. It works with a driver's list and it prints out an invoice in your file location.
-The program runs as a normal Java program so it's going to be GUI input boxes that appear to collect your user's information and preferences
+The program runs as a normal Java program so it's going to be GUI input boxes that appear to collect your user's information and preferences.
+
+*GUI When program is run
 
 # Requirments
 * Driver's list

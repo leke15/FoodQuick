@@ -12,6 +12,9 @@ The program runs as a normal Java program so it's going to be GUI input boxes th
 * An IDE that can run the Java program. I recommend Visual Studio Code
   ### Driver's List
   Your Driver's list is exponentially important to run the program this should be a txt file.
-  For the driver's list, it should be in the format of
+  For the driver's list, it should be in the format of:
+
+![Driver's name and location](Images/Drivers.png)
+  
   * Driver's Name (After comes a COMMA (,))
   * Loction, This can be in any way you want but you generally want it to be in the way the user will input the  restaurant location and also theirs

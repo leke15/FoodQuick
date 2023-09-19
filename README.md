@@ -9,7 +9,8 @@ The program runs as a normal Java program so it's going to be GUI input boxes th
 # Requirments
 * Driver's list
 * Appropriate file system
-* An IDE that can run the Java program. I recommend Visual Studio Code
+* An IDE that can run the Java program. (I recommend Visual Studio Code)
+
   ### Driver's List
 Your Driver's list is exponentially important to run the program this should be a txt file.
 For the driver's list, it should be in the format of:
@@ -34,4 +35,9 @@ In the parent file system the folder SRC has the food quick program which should
 
 ![Program](Images/FilesTree.png)
 
-The program where you have to run is **MAIN.JAVA** 
+The program you have to run is **MAIN.JAVA**  the drivers' file should also be in the same location as the Main.java file. This is where the invoice will also be created when you run the program.
+
+# Results
+When you run the file your Invoice should be created along with all the required information that will be asked to create your order
+
+![Example Invoice](Images/InvoiceImage.png)

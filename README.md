@@ -30,4 +30,8 @@ It's important to have the right system when running this program. The program w
 
 ![Java tree System](Images/JavaTree.png)
 
-In the parent file system the folder SRC has the food quick program which should run on a Java IDE.
+In the parent file system the folder SRC has the food quick program which should run on a Java IDE. 
+
+![Program](Images/FilesTree.png)
+
+The program where you have to run is **MAIN.JAVA** 

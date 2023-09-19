@@ -2,7 +2,8 @@
 This a Java program that has a functionality sort of like Uber Eats and sorts. It works with a driver's list and it prints out an invoice in your file location.
 The program runs as a normal Java program so it's going to be GUI input boxes that appear to collect your user's information and preferences.
 
-*GUI When program is run
+* GUI When the program is run
+  ![Images/Screenshot 2023-09-19 170521.png]
 
 # Requirments
 * Driver's list
